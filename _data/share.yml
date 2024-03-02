@@ -13,15 +13,6 @@ platforms:
   - type: Telegram
     icon: "fab fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
-    
-  - type: QQ
-    icon: "fa-brands fa-qq"
-    link: "https://connect.qq.com/widget/shareqq/index.html?url=URL&title=TITLE"
-
-  - type: Weibo
-    icon: "fab fa-weibo"
-    link: "http://service.weibo.com/share/share.php?title=TITLE&url=URL"
-
 
   # Uncomment below if you need to.
   #
@@ -29,9 +20,9 @@ platforms:
   #   icon: "fab fa-linkedin"
   #   link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
   #
-  # - type: WeChat
-  #   icon: "fab fa-weixin"
-  #   link: "#" # 这里需要填写微信分享的链接
+  # - type: Weibo
+  #   icon: "fab fa-weibo"
+  #   link: "http://service.weibo.com/share/share.php?title=TITLE&url=URL"
   #
   # - type: Mastodon
   #   icon: "fa-brands fa-mastodon"
