@@ -18,8 +18,11 @@ title: Paspartame # the main title
 
 tagline: Thank you for guiding me here! # it will display as the sub-title
 
+plugins:
+  - jekyll-feed
+
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  喜欢就订阅吧！
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
