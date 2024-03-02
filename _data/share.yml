@@ -18,9 +18,9 @@ platforms:
     icon: "fa-brands fa-qq"
     link: "https://connect.qq.com/widget/shareqq/index.html?url=URL&title=TITLE"
 
-  - type: Weibo
-    icon: "fab fa-weibo"
-    link: "http://service.weibo.com/share/share.php?title=TITLE&url=URL"
+  # - type: Weibo
+  #   icon: "fab fa-weibo"
+  #   link: "http://service.weibo.com/share/share.php?title=TITLE&url=URL"
 
 
   # Uncomment below if you need to.
