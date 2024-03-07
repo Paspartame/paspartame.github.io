@@ -21,9 +21,7 @@ package-lock.json
 assets/js/dist
 
 # Obsidian
-_drafts/.Obsidian
 _drafts/template.md
-_posts/.Obsidian
 __local
 .Obisidan
 .obsidian
