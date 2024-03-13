@@ -10,15 +10,15 @@ date: 2024-03-03 23:10 +0800
 ---
 ## 背景介绍
 
-众所周知，Arch Linux由于其安装过程相较于其他常见的发行版更为复杂、繁琐而闻名，因此，为了简化安装过程，Arch Linux官方提供了一个名为 [archinstall](https://wiki.archlinux.org/title/Archinstall){:target="_blank"} 的工具，它可以帮助用户快速、简单地安装Arch Linux。本文将介绍如何使用 `archinstall` 命令安装 Arch Linux。
+众所周知，Arch Linux由于其安装过程相较于其他常见的发行版更为复杂、繁琐而闻名，因此，为了简化安装过程，Arch Linux官方提供了一个名为 [archinstall](https://wiki.archlinux.org/title/Archinstall) 的工具，它可以帮助用户快速、简单地安装Arch Linux。本文将介绍如何使用 `archinstall` 命令安装 Arch Linux。
 
 ## 准备工作
 
-- [**获取安装介质**](https://archlinux.org/download/){:target="_blank"}
-- [**制作安装介质**](https://wiki.archlinuxcn.org/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97#%E5%87%86%E5%A4%87%E5%AE%89%E8%A3%85%E4%BB%8B%E8%B4%A8){:target="_blank"}
+- [**获取安装介质**](https://archlinux.org/download/)
+- [**制作安装介质**](https://wiki.archlinuxcn.org/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97#%E5%87%86%E5%A4%87%E5%AE%89%E8%A3%85%E4%BB%8B%E8%B4%A8)
 - **启动到Live环境**
 
-> 不同平台的启动方式不同，请自行查阅相关资料。
+> 不同平台修改启动顺序的方式不同，请自行查阅相关资料。
 {: .prompt-tip }
 
 ## 具体步骤
@@ -32,7 +32,7 @@ date: 2024-03-03 23:10 +0800
    ```
 
    如果网络连接正常，您将会收到来自 `archlinux.org` 的回复。
-> 若未连接到互联网，请参考 [**Connect_to_the_internet**](https://wiki.archlinux.org/title/Installation_guide#Connect_to_the_internet){:target="_blank"} 配置网络。
+> 若未连接到互联网，请参考 [**Connect_to_the_internet**](https://wiki.archlinux.org/title/Installation_guide#Connect_to_the_internet) 配置网络。
 {: .prompt-tip }
 
 ### 使用 `archinstall` 命令进入安装脚本配置界面
