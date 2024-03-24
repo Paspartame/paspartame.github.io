@@ -6,7 +6,7 @@ tags:
 - VMware
 - Linux
 - Arch
-img_path: "/assets/img/posts/arch _in_vmware"
+img_path: "/assets/img/posts/arch_in_vmware"
 image:
   path: preview.png
   alt: Arch Linux in VMware
